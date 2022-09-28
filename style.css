@@ -18,6 +18,7 @@ body {
     width:32.5vw;
     height:35vw;
     object-fit: cover;
+    border-radius:10px 0 0 10px;
 }
 
 .card {
@@ -25,4 +26,5 @@ body {
     height:35vw;
     background-color:white;
     display:flex;
+    border-radius: 10px;
 }
