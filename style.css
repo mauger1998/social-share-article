@@ -15,7 +15,7 @@ body {
 }
 
 .left-side > img {
-    width:32.5vw;
+    width:30vw;
     height:35vw;
     object-fit: cover;
     border-radius:10px 0 0 10px;
@@ -39,15 +39,15 @@ body {
 }
 
 .right-side > h3{
-    font-size:17px;
+    font-size:2vw;
     width:75%;
     line-height: 1.6;
-    color:
+    color:hsl(217, 19%, 35%);
 
     
 }
 
 .right-side > p {
-    font-size: 13px;
+    font-size: 1.3vw;
     width:75%;
 }
