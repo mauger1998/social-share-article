@@ -92,14 +92,14 @@ blockquote {
     text-align: center;
     top:400px;
     left:65vw;
-    visibility: hidden;
+    display:none;
 }
 blockquote:after {
     content:'';
     content: '';
 	position: absolute;
 	bottom: 0;
-	left: 50%;
+	left: 53%;
 	width: 0;
 	height: 0;
 	border: 20px solid transparent;
@@ -108,4 +108,10 @@ blockquote:after {
 	border-left: 0;
 	margin-left: -10px;
 	margin-bottom: -20px;
+}
+.clicked {
+    display:block;
+}
+#share:hover {
+    cursor:pointer;
 }
