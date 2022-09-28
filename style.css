@@ -62,3 +62,7 @@ body {
 .name {
     font-weight: 700;
 }
+div > img {
+    width:7vw;
+    border-radius:100%;
+}
