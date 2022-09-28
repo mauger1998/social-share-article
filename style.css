@@ -4,3 +4,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color:hsl(217, 19%, 35%);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    
+}
+
+.left-side > img {
+    width:20vw;
+}
+
+.card {
+    width:75vw;
+    height:40vw;
+    background-color:white;
+}
