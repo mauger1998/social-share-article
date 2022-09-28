@@ -51,3 +51,14 @@ body {
     font-size: 1.3vw;
     width:75%;
 }
+
+.name-date > p {
+    font-size: 1.3vw;
+    width:75%;
+}
+.right-side > div {
+    width:75%;
+}
+.name {
+    font-weight: 700;
+}
