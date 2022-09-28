@@ -40,7 +40,7 @@ body {
 
 .right-side > h3{
     font-size:2vw;
-    width:75%;
+    width:77%;
     line-height: 1.6;
     color:hsl(217, 19%, 35%);
 
@@ -49,20 +49,30 @@ body {
 
 .right-side > p {
     font-size: 1.3vw;
-    width:75%;
+    width:77%;
 }
 
 .name-date > p {
     font-size: 1.3vw;
     width:75%;
 }
-.right-side > div {
+.right-side > div  {
     width:75%;
 }
 .name {
     font-weight: 700;
+    
+    
+}
+.name-date {
+    width:20vw;
 }
 div > img {
     width:7vw;
     border-radius:100%;
+}
+.foot {
+    display:flex;
+    gap:2vw;
+    align-items: center;
 }
