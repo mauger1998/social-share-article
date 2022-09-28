@@ -76,3 +76,9 @@ div > img {
     gap:2vw;
     align-items: center;
 }
+
+#share {
+    width: 6vw;
+    background-color:hsl(210, 46%, 90%);
+    padding:0.8vw;
+}
