@@ -15,11 +15,14 @@ body {
 }
 
 .left-side > img {
-    width:20vw;
+    width:32.5vw;
+    height:35vw;
+    object-fit: cover;
 }
 
 .card {
     width:75vw;
-    height:40vw;
+    height:35vw;
     background-color:white;
+    display:flex;
 }
