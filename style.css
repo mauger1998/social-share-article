@@ -94,6 +94,9 @@ blockquote {
     left:65vw;
     display:none;
 }
+blockquote:hover {
+    cursor: pointer;
+}
 blockquote:after {
     content:'';
     content: '';
