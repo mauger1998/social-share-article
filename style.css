@@ -93,6 +93,7 @@ blockquote {
     top:400px;
     left:65vw;
     display:none;
+    font-size:15px;
 }
 blockquote:hover {
     cursor: pointer;
@@ -117,4 +118,8 @@ blockquote:after {
 }
 #share:hover {
     cursor:pointer;
+}
+blockquote > img {
+    margin-left:15px;
+    margin-right:15px;
 }
