@@ -92,7 +92,7 @@ blockquote {
     text-align: center;
     top:400px;
     left:65vw;
-    display:none;
+    visibility: hidden;
 }
 blockquote:after {
     content:'';
