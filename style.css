@@ -82,3 +82,29 @@ div > img {
     background-color:hsl(210, 46%, 90%);
     padding:0.8vw;
 }
+blockquote {
+    position: absolute;
+    background-color: hsl(217, 19%, 35%);
+    color:hsl(214, 17%, 51%);
+    width:30vw;
+    height:7vw;
+    border-radius:15px;
+    text-align: center;
+    top:400px;
+    left:65vw;
+}
+blockquote:after {
+    content:'';
+    content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 20px solid transparent;
+	border-top-color: hsl(217, 19%, 35%);
+	border-bottom: 0;
+	border-left: 0;
+	margin-left: -10px;
+	margin-bottom: -20px;
+}
